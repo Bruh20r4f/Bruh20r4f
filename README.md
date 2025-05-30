@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruh20r4f my real name is Natalia!
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on idk 🤷
 - 📫 How to reach me Nataliabellehasenbank@gmail.com
 - 😄 Pronouns: they/them
